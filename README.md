@@ -3,7 +3,7 @@
 Download installers + release notes for **Pinecone — AI for TradingView**.
 
 → **[pinecone-1bt.pages.dev](https://pinecone-1bt.pages.dev)** for the product page
-→ **[Latest release](https://github.com/jamesvm696/pinecone-app/releases/latest)** for the Windows installer
+→ **[Latest release](https://github.com/Pinecone-Trading/pinecone-app/releases/latest)** for the Windows installer
 
 This repo only hosts the binaries. Source is in a separate (private) repo.
 
